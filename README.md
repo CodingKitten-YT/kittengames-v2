@@ -1,30 +1,50 @@
-# KittenGames
+# ⚠️ ARCHIVED PROJECT - READ ONLY
 
-Welcome to the KittenGames, a simple but effective customizable game website.
+**For the latest version of KittenGames, please visit: [CodingKitten-YT/kittengames](https://github.com/CodingKitten-YT/kittengames)**
+
+This repository is now a read-only archive of the previous version (v2) of KittenGames.
+
+---
+
+## Tech Stack
+
+This project is built using:
+
+- **HTML5** - Structure and markup for game interfaces
+- **CSS3** - Styling, animations, and responsive design
+- **JavaScript (ES6+)** - Game logic, interactivity, and DOM manipulation
 
 ## Features
 
-- **Game Library**: Explore a curated selection of browser-based games across various genres.
-- **Custom Libraries**: Load your own custom game libraries to expand your gaming options.
-- **Simple and Intuitive**: Easy-to-use interface for seamless browsing and gameplay.
-- **No Downloads Required**: Play games directly in your browser without the need for downloads or installations.
+- Pure vanilla web technologies (no frameworks)
+- Responsive design for various screen sizes
+- Interactive browser-based games
+- Clean, modern UI/UX
 
 ## Getting Started
 
-To start playing games, simply visit our [website](https://kittengames.github.io) and browse the available titles. Want to add your own games or load custom libraries? You can do that too!
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/CodingKitten-YT/kittengames-v2.git
+   ```
 
-## Contributing
+2. Open `index.html` in your web browser to start playing!
 
-While the core library is curated by our team, we also welcome contributions from the community. If you have a game you'd like to see featured or want to share your own custom library, get in touch with us.
+## Browser Compatibility
 
-## Contact
+This project works in all modern browsers that support:
+- ES6+ JavaScript features
+- CSS3 animations and flexbox
+- HTML5 canvas (if applicable)
 
-For inquiries, suggestions, or feedback, please dm me at [my discord](https://discord.com/users/1030436156858445875).
+## Archive Notice
 
-## Quick Deployment
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/CodingKitten-YT/kittengames)
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/CodingKitten-YT/kittengames)
-[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CodingKitten-YT/kittengames)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/CodingKitten-YT/kittengames)
+This version (v2) is no longer actively maintained. All new development and updates are happening in the main [KittenGames repository](https://github.com/CodingKitten-YT/kittengames).
 
-**Ready to play? Visit [KittenGames](https://kittengames.github.io) and start your gaming journey today!**
+## License
+
+This project is archived as-is. Please refer to the current version for licensing information.
+
+---
+
+**⭐ Star the current version: [CodingKitten-YT/kittengames](https://github.com/CodingKitten-YT/kittengames)**
